@@ -16,4 +16,5 @@ SOURCES += main.cpp
 
 HEADERS += main.h
 
-DESTDIR = "C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.28.29333/bin/Hostx64/x64"#$$_PRO_FILE_PWD_/bin
+#DESTDIR = "C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.28.29333/bin/Hostx64/x64"#$$_PRO_FILE_PWD_/bin
+DESTDIR = $$_PRO_FILE_PWD_/bin
